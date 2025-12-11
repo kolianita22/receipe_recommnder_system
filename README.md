@@ -35,6 +35,9 @@ RuchiBot is an **intelligent recipe recommendation system** that helps users dis
 - **Model Serialization**: Joblib (`vectorizer.pkl`, `tfidf_matrix.pkl`)
 
 ---
+**UI  Screenshots**
+### 🏠 Homepage
+<img src="" alt="Homepage" width="600">
 
 ## Installation & Setup
 
