@@ -61,7 +61,8 @@ gitdb==4.0.12
 GitPython==3.1.45
 google-auth==2.40.3
 google-genai==1.24.0
-googletrans==4.0.0rc1
+googletrans==4.0.0-rc1
+
 gunicorn==23.0.0
 h11==0.9.0
 h2==3.2.0
